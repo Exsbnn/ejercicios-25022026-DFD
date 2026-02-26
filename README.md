@@ -2,8 +2,7 @@
 
 ## Integrantes
 
-- Nombre completo estudiante 1 – ID
-- Nombre completo estudiante 2 – ID
+- Pablo Esteban Moreno Bernal – 001138530
 
 ## Tema
 Estructuras condicionales en Diagramas de Flujo y condiciones anidadas.
